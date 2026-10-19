@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="banner.svg" alt="Aryan Achary: what a 3D scene file still remembers after the picture has forgotten it" width="100%" />
+  <img src="banner.svg" alt="Aryan Achary" width="100%" />
 </p>
 
 I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision**, mostly 3D Gaussian Splatting.
 
 ### What I'm working on
 
-- **Does redaction really forget?** If a private detail is edited out of a 3DGS scene so that no render shows it, can it still be read from the scene file? In a synthetic pilot and on a real phone capture, fine-tuning made the renders clean but left a hidden pattern readable from the Gaussians themselves; only rebuilding the whole region brought it down to a clean retrain's level. *(AAAI-27 Undergraduate Consortium proposal, decision pending.)*
-- **Object landmarks for dense 3DGS SLAM**, with [@W-OK-E](https://github.com/W-OK-E): lifting and cleaning object masks on a Gaussian map so they can correct the trajectory. *(Manuscript in preparation.)*
+- Whether a private detail edited out of a 3D Gaussian Splatting scene can still be recovered from the scene file *(AAAI-27 Undergraduate Consortium proposal, decision pending)*
+- Object landmarks for dense 3DGS SLAM, with [@W-OK-E](https://github.com/W-OK-E) *(manuscript in preparation)*
 
 ### Things I've built
 
 | Project | What it does |
 |---|---|
-| [**Heimdall**](https://github.com/Aryan241/Heimdall) | One aerial photo in, a metric height map and a 3D flythrough out. A small decoder on a frozen Depth Anything V2, checked against LiDAR on held-out sites. Built for Smart India Hackathon 2026 (ISRO/SAC problem). |
+| [**Heimdall**](https://github.com/Aryan241/Heimdall) | Height estimation from a single aerial image: a small decoder on a frozen Depth Anything V2, evaluated against LiDAR. Team project for Smart India Hackathon 2026. |
 | [**Distractor removal for 3DGS**](https://github.com/Aryan241/SplatSplot) | Cleans an already-trained splat without retraining: SAM 2 masks from a text prompt, then a multi-view vote keeps or prunes each Gaussian. Tested on 12 Nerfbusters scenes. |
 
 ### Toolbox
@@ -28,6 +28,13 @@ I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision
   <img src="https://img.shields.io/badge/SAM%202-1f2937" alt="SAM 2" />
   <img src="https://img.shields.io/badge/Depth%20Anything-1f2937" alt="Depth Anything" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan241/Aryan241/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aryan241/Aryan241/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 [Website](https://aryan241.github.io) · [CV](https://aryan241.github.io/files/Aryan_Achary_CV.pdf) · [Email](mailto:aryanachary77@gmail.com)
