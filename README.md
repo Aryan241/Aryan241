@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Aryan Achary: what a 3D scene file still remembers after the picture has forgotten it" width="100%" />
 </p>
 
-I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision**, mostly 3D Gaussian Splatting: reconstructing scenes, lifting 2D masks into them, and checking what the trained file actually keeps.
+I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision**, mostly 3D Gaussian Splatting.
 
 ### What I'm working on
 
@@ -29,10 +29,5 @@ I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision
   <img src="https://img.shields.io/badge/Depth%20Anything-1f2937" alt="Depth Anything" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
-
-### Around
-
-- Mentoring juniors in ML at [Project MANAS](https://projectmanas.in/), the AI and robotics team of MAHE
-- Leading a four-person team in e-Yantra (IIT Bombay)
 
 [Website](https://aryan241.github.io) · [CV](https://aryan241.github.io/files/Aryan_Achary_CV.pdf) · [Email](mailto:aryanachary77@gmail.com)
