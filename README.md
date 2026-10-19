@@ -14,7 +14,7 @@ I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision
 | Project | What it does |
 |---|---|
 | [**Heimdall**](https://github.com/Aryan241/Heimdall) | Height estimation from a single aerial image: a small decoder on a frozen Depth Anything V2, evaluated against LiDAR. Team project for Smart India Hackathon 2026. |
-| [**Distractor removal for 3DGS**](https://github.com/Aryan241/SplatSplot) | Cleans an already-trained splat without retraining: SAM 2 masks from a text prompt, then a multi-view vote keeps or prunes each Gaussian. Tested on 12 Nerfbusters scenes. |
+| [**Distractor removal for 3DGS**](https://github.com/Aryan241/Clean-Splate) | Cleans an already-trained splat without retraining: SAM 2 masks from a text prompt, then a multi-view vote keeps or prunes each Gaussian. Tested on 12 Nerfbusters scenes. |
 
 ### Toolbox
 
