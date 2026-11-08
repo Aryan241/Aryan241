@@ -7,7 +7,6 @@ I'm a second-year CSE student at **MIT Manipal** working on **3D computer vision
 ### What I'm working on
 
 - Whether a private detail edited out of a 3D Gaussian Splatting scene can still be recovered from the scene file *(AAAI-27 Undergraduate Consortium proposal, decision pending)*
-- Object landmarks for dense 3DGS SLAM, with [@W-OK-E](https://github.com/W-OK-E) *(manuscript in preparation)*
 
 ### Things I've built
 
